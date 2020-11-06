@@ -1,4 +1,4 @@
-var startYear = 3;
+var startYear = 1;
 var endYear = 10;
 // var yearArray = [];
 
